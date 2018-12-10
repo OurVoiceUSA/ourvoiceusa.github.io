@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/HelloVoter/static/js/runtime~main.4e0c0cba.js"
   },
   {
-    "revision": "cb99576509244debb471",
-    "url": "/HelloVoter/static/js/main.cb995765.chunk.js"
+    "revision": "c6ec7369154f144cf1f6",
+    "url": "/HelloVoter/static/js/main.c6ec7369.chunk.js"
   },
   {
     "revision": "c06e33a7afef8be0437e",
     "url": "/HelloVoter/static/js/1.c06e33a7.chunk.js"
   },
   {
-    "revision": "cb99576509244debb471",
+    "revision": "c6ec7369154f144cf1f6",
     "url": "/HelloVoter/static/css/main.9d2bc9ce.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/HelloVoter/static/css/1.e99a685c.chunk.css"
   },
   {
-    "revision": "9ef0e86b2f2aabe80b086514a1b39899",
+    "revision": "cc4489b3f910ef5864581764d615f788",
     "url": "/HelloVoter/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
   "main.css": "/HelloVoter/static/css/main.9d2bc9ce.chunk.css",
-  "main.js": "/HelloVoter/static/js/main.cb995765.chunk.js",
-  "main.js.map": "/HelloVoter/static/js/main.cb995765.chunk.js.map",
+  "main.js": "/HelloVoter/static/js/main.c6ec7369.chunk.js",
+  "main.js.map": "/HelloVoter/static/js/main.c6ec7369.chunk.js.map",
   "static/css/1.e99a685c.chunk.css": "/HelloVoter/static/css/1.e99a685c.chunk.css",
   "static/js/1.c06e33a7.chunk.js": "/HelloVoter/static/js/1.c06e33a7.chunk.js",
   "static/js/1.c06e33a7.chunk.js.map": "/HelloVoter/static/js/1.c06e33a7.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.e99a685c.chunk.css.map": "/HelloVoter/static/css/1.e99a685c.chunk.css.map",
   "static/css/main.9d2bc9ce.chunk.css.map": "/HelloVoter/static/css/main.9d2bc9ce.chunk.css.map",
   "index.html": "/HelloVoter/index.html",
-  "precache-manifest.db83e4d002f2376518750dd3b59da500.js": "/HelloVoter/precache-manifest.db83e4d002f2376518750dd3b59da500.js",
+  "precache-manifest.6a813d2fa60a1f72c02a9edea21b09cb.js": "/HelloVoter/precache-manifest.6a813d2fa60a1f72c02a9edea21b09cb.js",
   "service-worker.js": "/HelloVoter/service-worker.js"
 }
