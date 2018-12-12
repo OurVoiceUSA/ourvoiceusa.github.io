@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/HelloVoter/precache-manifest.6a813d2fa60a1f72c02a9edea21b09cb.js"
+  "/HelloVoter/precache-manifest.2025b97903260f96e51cf561a5af54b0.js"
 );
 
 workbox.clientsClaim();
