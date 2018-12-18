@@ -1,15 +1,15 @@
 {
   "main.css": "/HelloVoter/static/css/main.6878ac70.chunk.css",
-  "main.js": "/HelloVoter/static/js/main.d4c74066.chunk.js",
-  "main.js.map": "/HelloVoter/static/js/main.d4c74066.chunk.js.map",
+  "main.js": "/HelloVoter/static/js/main.fda1f8bd.chunk.js",
+  "main.js.map": "/HelloVoter/static/js/main.fda1f8bd.chunk.js.map",
   "static/css/1.0a7f4c55.chunk.css": "/HelloVoter/static/css/1.0a7f4c55.chunk.css",
-  "static/js/1.7c7069cb.chunk.js": "/HelloVoter/static/js/1.7c7069cb.chunk.js",
-  "static/js/1.7c7069cb.chunk.js.map": "/HelloVoter/static/js/1.7c7069cb.chunk.js.map",
+  "static/js/1.94f2aacf.chunk.js": "/HelloVoter/static/js/1.94f2aacf.chunk.js",
+  "static/js/1.94f2aacf.chunk.js.map": "/HelloVoter/static/js/1.94f2aacf.chunk.js.map",
   "runtime~main.js": "/HelloVoter/static/js/runtime~main.4e0c0cba.js",
   "runtime~main.js.map": "/HelloVoter/static/js/runtime~main.4e0c0cba.js.map",
   "static/css/1.0a7f4c55.chunk.css.map": "/HelloVoter/static/css/1.0a7f4c55.chunk.css.map",
   "static/css/main.6878ac70.chunk.css.map": "/HelloVoter/static/css/main.6878ac70.chunk.css.map",
   "index.html": "/HelloVoter/index.html",
-  "precache-manifest.2cbdcdccce8419d6ef378d1ee93ae74a.js": "/HelloVoter/precache-manifest.2cbdcdccce8419d6ef378d1ee93ae74a.js",
+  "precache-manifest.ff31d774c499c2159ef6a52a1731f9e2.js": "/HelloVoter/precache-manifest.ff31d774c499c2159ef6a52a1731f9e2.js",
   "service-worker.js": "/HelloVoter/service-worker.js"
 }
