@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/HelloVoter/precache-manifest.3cdbefa495355a78fdd068f8481c1b58.js"
+  "/HelloVoterHQ/precache-manifest.f4c86082f9ec86fd7246e9bacfb95941.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/HelloVoter/index.html", {
+workbox.routing.registerNavigationRoute("/HelloVoterHQ/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
