@@ -1,17 +1,19 @@
 {
-  "main.css": "/HelloVoterHQ/static/css/main.61abea73.chunk.css",
-  "main.js": "/HelloVoterHQ/static/js/main.94cd86d4.chunk.js",
-  "main.js.map": "/HelloVoterHQ/static/js/main.94cd86d4.chunk.js.map",
-  "static/css/1.84438115.chunk.css": "/HelloVoterHQ/static/css/1.84438115.chunk.css",
-  "static/js/1.87b768b6.chunk.js": "/HelloVoterHQ/static/js/1.87b768b6.chunk.js",
-  "static/js/1.87b768b6.chunk.js.map": "/HelloVoterHQ/static/js/1.87b768b6.chunk.js.map",
-  "runtime~main.js": "/HelloVoterHQ/static/js/runtime~main.3a8aaac1.js",
-  "runtime~main.js.map": "/HelloVoterHQ/static/js/runtime~main.3a8aaac1.js.map",
-  "static/media/index.css": "/HelloVoterHQ/static/media/roboto-latin-900italic.bc833e72.woff",
-  "static/media/notifications.css": "/HelloVoterHQ/static/media/notification.651771e1.woff",
-  "static/css/main.61abea73.chunk.css.map": "/HelloVoterHQ/static/css/main.61abea73.chunk.css.map",
-  "static/css/1.84438115.chunk.css.map": "/HelloVoterHQ/static/css/1.84438115.chunk.css.map",
-  "index.html": "/HelloVoterHQ/index.html",
-  "precache-manifest.e63e0d6d2b9a9dbe8b2112ec666d18a8.js": "/HelloVoterHQ/precache-manifest.e63e0d6d2b9a9dbe8b2112ec666d18a8.js",
-  "service-worker.js": "/HelloVoterHQ/service-worker.js"
+  "files": {
+    "main.css": "/HelloVoterHQ/static/css/main.8360fd86.chunk.css",
+    "main.js": "/HelloVoterHQ/static/js/main.cc6dd3bb.chunk.js",
+    "main.js.map": "/HelloVoterHQ/static/js/main.cc6dd3bb.chunk.js.map",
+    "runtime~main.js": "/HelloVoterHQ/static/js/runtime~main.901d0581.js",
+    "runtime~main.js.map": "/HelloVoterHQ/static/js/runtime~main.901d0581.js.map",
+    "static/css/2.1d510a32.chunk.css": "/HelloVoterHQ/static/css/2.1d510a32.chunk.css",
+    "static/js/2.d0805b1d.chunk.js": "/HelloVoterHQ/static/js/2.d0805b1d.chunk.js",
+    "static/js/2.d0805b1d.chunk.js.map": "/HelloVoterHQ/static/js/2.d0805b1d.chunk.js.map",
+    "index.html": "/HelloVoterHQ/index.html",
+    "precache-manifest.3cd811beb5289b104320309d72cb4cc0.js": "/HelloVoterHQ/precache-manifest.3cd811beb5289b104320309d72cb4cc0.js",
+    "service-worker.js": "/HelloVoterHQ/service-worker.js",
+    "static/css/2.1d510a32.chunk.css.map": "/HelloVoterHQ/static/css/2.1d510a32.chunk.css.map",
+    "static/css/main.8360fd86.chunk.css.map": "/HelloVoterHQ/static/css/main.8360fd86.chunk.css.map",
+    "static/media/notifications.css": "/HelloVoterHQ/static/media/notification.c0d3c94c.eot",
+    "static/media/index.css": "/HelloVoterHQ/static/media/roboto-latin-900italic.bc833e72.woff"
+  }
 }
