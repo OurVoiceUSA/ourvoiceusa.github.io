@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "455114c86b07b8326c737e995a77aa4b",
+    "revision": "d790df0f0045f78ddd33ddb5c3b894f9",
     "url": "/HelloVoterHQ/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HelloVoterHQ/static/css/2.1c87bd01.chunk.css"
   },
   {
-    "revision": "b495400e6bb1c10b7397",
+    "revision": "640f9668e7107857668a",
     "url": "/HelloVoterHQ/static/css/main.8360fd86.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HelloVoterHQ/static/js/2.4beeca36.chunk.js"
   },
   {
-    "revision": "b495400e6bb1c10b7397",
-    "url": "/HelloVoterHQ/static/js/main.721e7598.chunk.js"
+    "revision": "640f9668e7107857668a",
+    "url": "/HelloVoterHQ/static/js/main.acf0b5a8.chunk.js"
   },
   {
     "revision": "333a0ded7803e807a6b7",
