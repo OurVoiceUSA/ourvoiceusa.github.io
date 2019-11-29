@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/HelloVoterHQ/static/css/main.40f0015d.chunk.css",
-    "main.js": "/HelloVoterHQ/static/js/main.c71c64ee.chunk.js",
-    "main.js.map": "/HelloVoterHQ/static/js/main.c71c64ee.chunk.js.map",
-    "runtime~main.js": "/HelloVoterHQ/static/js/runtime~main.17dd41bc.js",
-    "runtime~main.js.map": "/HelloVoterHQ/static/js/runtime~main.17dd41bc.js.map",
+    "main.css": "/HelloVoterHQ/static/css/main.61b16b3e.chunk.css",
+    "main.js": "/HelloVoterHQ/static/js/main.4c543e2d.chunk.js",
+    "main.js.map": "/HelloVoterHQ/static/js/main.4c543e2d.chunk.js.map",
+    "runtime-main.js": "/HelloVoterHQ/static/js/runtime-main.bafd08ae.js",
+    "runtime-main.js.map": "/HelloVoterHQ/static/js/runtime-main.bafd08ae.js.map",
     "static/css/2.1c87bd01.chunk.css": "/HelloVoterHQ/static/css/2.1c87bd01.chunk.css",
-    "static/js/2.b7af05c3.chunk.js": "/HelloVoterHQ/static/js/2.b7af05c3.chunk.js",
-    "static/js/2.b7af05c3.chunk.js.map": "/HelloVoterHQ/static/js/2.b7af05c3.chunk.js.map",
+    "static/js/2.c132d39f.chunk.js": "/HelloVoterHQ/static/js/2.c132d39f.chunk.js",
+    "static/js/2.c132d39f.chunk.js.map": "/HelloVoterHQ/static/js/2.c132d39f.chunk.js.map",
     "index.html": "/HelloVoterHQ/index.html",
-    "precache-manifest.576ffe9a805ddf97b10c28f5f8915aef.js": "/HelloVoterHQ/precache-manifest.576ffe9a805ddf97b10c28f5f8915aef.js",
+    "precache-manifest.2d9d9b59c2b3021f4d893d373d167e4f.js": "/HelloVoterHQ/precache-manifest.2d9d9b59c2b3021f4d893d373d167e4f.js",
     "service-worker.js": "/HelloVoterHQ/service-worker.js",
     "static/css/2.1c87bd01.chunk.css.map": "/HelloVoterHQ/static/css/2.1c87bd01.chunk.css.map",
-    "static/css/main.40f0015d.chunk.css.map": "/HelloVoterHQ/static/css/main.40f0015d.chunk.css.map",
+    "static/css/main.61b16b3e.chunk.css.map": "/HelloVoterHQ/static/css/main.61b16b3e.chunk.css.map",
     "static/media/notifications.css": "/HelloVoterHQ/static/media/notification.c0d3c94c.eot",
     "static/media/index.css": "/HelloVoterHQ/static/media/roboto-latin-900italic.ebf6d164.woff2"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bafd08ae.js",
+    "static/css/2.1c87bd01.chunk.css",
+    "static/js/2.c132d39f.chunk.js",
+    "static/css/main.61b16b3e.chunk.css",
+    "static/js/main.4c543e2d.chunk.js"
+  ]
 }
