@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HelloVoterHQ/static/css/main.f549cb00.chunk.css",
-    "main.js": "/HelloVoterHQ/static/js/main.93dbcfb2.chunk.js",
-    "main.js.map": "/HelloVoterHQ/static/js/main.93dbcfb2.chunk.js.map",
+    "main.js": "/HelloVoterHQ/static/js/main.8b197555.chunk.js",
+    "main.js.map": "/HelloVoterHQ/static/js/main.8b197555.chunk.js.map",
     "runtime-main.js": "/HelloVoterHQ/static/js/runtime-main.ddc6e56f.js",
     "runtime-main.js.map": "/HelloVoterHQ/static/js/runtime-main.ddc6e56f.js.map",
     "static/css/2.5ba63b7b.chunk.css": "/HelloVoterHQ/static/css/2.5ba63b7b.chunk.css",
     "static/js/2.7c70502e.chunk.js": "/HelloVoterHQ/static/js/2.7c70502e.chunk.js",
     "static/js/2.7c70502e.chunk.js.map": "/HelloVoterHQ/static/js/2.7c70502e.chunk.js.map",
     "index.html": "/HelloVoterHQ/index.html",
-    "precache-manifest.a264408ca0cdd9a3fe72235540eff8cf.js": "/HelloVoterHQ/precache-manifest.a264408ca0cdd9a3fe72235540eff8cf.js",
+    "precache-manifest.3330a31d7c9aba99ae7901597796bfa4.js": "/HelloVoterHQ/precache-manifest.3330a31d7c9aba99ae7901597796bfa4.js",
     "service-worker.js": "/HelloVoterHQ/service-worker.js",
     "static/css/2.5ba63b7b.chunk.css.map": "/HelloVoterHQ/static/css/2.5ba63b7b.chunk.css.map",
     "static/css/main.f549cb00.chunk.css.map": "/HelloVoterHQ/static/css/main.f549cb00.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.5ba63b7b.chunk.css",
     "static/js/2.7c70502e.chunk.js",
     "static/css/main.f549cb00.chunk.css",
-    "static/js/main.93dbcfb2.chunk.js"
+    "static/js/main.8b197555.chunk.js"
   ]
 }
