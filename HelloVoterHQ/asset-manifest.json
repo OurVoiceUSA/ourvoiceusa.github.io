@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/HelloVoterHQ/static/css/main.f549cb00.chunk.css",
-    "main.js": "/HelloVoterHQ/static/js/main.27a79e5a.chunk.js",
-    "main.js.map": "/HelloVoterHQ/static/js/main.27a79e5a.chunk.js.map",
-    "runtime-main.js": "/HelloVoterHQ/static/js/runtime-main.2878811d.js",
-    "runtime-main.js.map": "/HelloVoterHQ/static/js/runtime-main.2878811d.js.map",
-    "static/css/2.5ba63b7b.chunk.css": "/HelloVoterHQ/static/css/2.5ba63b7b.chunk.css",
-    "static/js/2.5f035d36.chunk.js": "/HelloVoterHQ/static/js/2.5f035d36.chunk.js",
-    "static/js/2.5f035d36.chunk.js.map": "/HelloVoterHQ/static/js/2.5f035d36.chunk.js.map",
+    "main.js": "/HelloVoterHQ/static/js/main.ca2be3fa.chunk.js",
+    "main.js.map": "/HelloVoterHQ/static/js/main.ca2be3fa.chunk.js.map",
+    "runtime-main.js": "/HelloVoterHQ/static/js/runtime-main.c4989d63.js",
+    "runtime-main.js.map": "/HelloVoterHQ/static/js/runtime-main.c4989d63.js.map",
+    "static/css/2.835cd148.chunk.css": "/HelloVoterHQ/static/css/2.835cd148.chunk.css",
+    "static/js/2.654b6dad.chunk.js": "/HelloVoterHQ/static/js/2.654b6dad.chunk.js",
+    "static/js/2.654b6dad.chunk.js.map": "/HelloVoterHQ/static/js/2.654b6dad.chunk.js.map",
     "index.html": "/HelloVoterHQ/index.html",
-    "precache-manifest.462f76ebac99c9458a5259328be6e36c.js": "/HelloVoterHQ/precache-manifest.462f76ebac99c9458a5259328be6e36c.js",
+    "precache-manifest.ba9b5814912dbc024416d339c23aa588.js": "/HelloVoterHQ/precache-manifest.ba9b5814912dbc024416d339c23aa588.js",
     "service-worker.js": "/HelloVoterHQ/service-worker.js",
-    "static/css/2.5ba63b7b.chunk.css.map": "/HelloVoterHQ/static/css/2.5ba63b7b.chunk.css.map",
+    "static/css/2.835cd148.chunk.css.map": "/HelloVoterHQ/static/css/2.835cd148.chunk.css.map",
     "static/css/main.f549cb00.chunk.css.map": "/HelloVoterHQ/static/css/main.f549cb00.chunk.css.map",
-    "static/js/2.5f035d36.chunk.js.LICENSE.txt": "/HelloVoterHQ/static/js/2.5f035d36.chunk.js.LICENSE.txt",
+    "static/js/2.654b6dad.chunk.js.LICENSE.txt": "/HelloVoterHQ/static/js/2.654b6dad.chunk.js.LICENSE.txt",
     "static/media/notifications.css": "/HelloVoterHQ/static/media/notification.c0d3c94c.eot",
     "static/media/index.css": "/HelloVoterHQ/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.2878811d.js",
-    "static/css/2.5ba63b7b.chunk.css",
-    "static/js/2.5f035d36.chunk.js",
+    "static/js/runtime-main.c4989d63.js",
+    "static/css/2.835cd148.chunk.css",
+    "static/js/2.654b6dad.chunk.js",
     "static/css/main.f549cb00.chunk.css",
-    "static/js/main.27a79e5a.chunk.js"
+    "static/js/main.ca2be3fa.chunk.js"
   ]
 }
