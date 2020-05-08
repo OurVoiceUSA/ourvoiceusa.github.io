@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/hellovoter/static/js/main.3717a99f.chunk.js",
+    "main.js.map": "/hellovoter/static/js/main.3717a99f.chunk.js.map",
+    "runtime-main.js": "/hellovoter/static/js/runtime-main.74e3fc80.js",
+    "runtime-main.js.map": "/hellovoter/static/js/runtime-main.74e3fc80.js.map",
+    "static/js/2.b410539f.chunk.js": "/hellovoter/static/js/2.b410539f.chunk.js",
+    "static/js/2.b410539f.chunk.js.map": "/hellovoter/static/js/2.b410539f.chunk.js.map",
+    "index.html": "/hellovoter/index.html",
+    "precache-manifest.c3c94fc638548a11d3ac2e9f72c9c7a0.js": "/hellovoter/precache-manifest.c3c94fc638548a11d3ac2e9f72c9c7a0.js",
+    "service-worker.js": "/hellovoter/service-worker.js",
+    "static/js/2.b410539f.chunk.js.LICENSE.txt": "/hellovoter/static/js/2.b410539f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74e3fc80.js",
+    "static/js/2.b410539f.chunk.js",
+    "static/js/main.3717a99f.chunk.js"
+  ]
+}
