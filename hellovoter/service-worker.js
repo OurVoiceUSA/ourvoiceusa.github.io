@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hellovoter/precache-manifest.c3c94fc638548a11d3ac2e9f72c9c7a0.js"
+  "/hellovoter/precache-manifest.41869de7ac2373c31da538e40c833d7b.js"
 );
 
 self.addEventListener('message', (event) => {
