@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/voterambassador/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/voterambassador/static/js/main.301190ce.chunk.js",
-    "main.js.map": "/voterambassador/static/js/main.301190ce.chunk.js.map",
+    "main.js": "/voterambassador/static/js/main.3e7232eb.chunk.js",
+    "main.js.map": "/voterambassador/static/js/main.3e7232eb.chunk.js.map",
     "runtime-main.js": "/voterambassador/static/js/runtime-main.58397791.js",
     "runtime-main.js.map": "/voterambassador/static/js/runtime-main.58397791.js.map",
     "static/js/2.5cd5543e.chunk.js": "/voterambassador/static/js/2.5cd5543e.chunk.js",
     "static/js/2.5cd5543e.chunk.js.map": "/voterambassador/static/js/2.5cd5543e.chunk.js.map",
     "index.html": "/voterambassador/index.html",
-    "precache-manifest.a19a4fb8142a0d388bac1133d37dca25.js": "/voterambassador/precache-manifest.a19a4fb8142a0d388bac1133d37dca25.js",
+    "precache-manifest.18eed077dc946949c765eceb279d1906.js": "/voterambassador/precache-manifest.18eed077dc946949c765eceb279d1906.js",
     "service-worker.js": "/voterambassador/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/voterambassador/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.5cd5543e.chunk.js.LICENSE.txt": "/voterambassador/static/js/2.5cd5543e.chunk.js.LICENSE.txt",
-    "static/media/favicon.ico": "/voterambassador/static/media/favicon.6e1267d9.ico",
+    "static/media/favicon.ico": "/voterambassador/static/media/favicon.a5136bec.ico",
     "static/media/robots.txt": "/voterambassador/static/media/robots.fa1ded1e.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.58397791.js",
     "static/js/2.5cd5543e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.301190ce.chunk.js"
+    "static/js/main.3e7232eb.chunk.js"
   ]
 }
