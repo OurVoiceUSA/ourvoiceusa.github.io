@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAEA,EACE,iBAAmB","file":"main.3fcbe30b.chunk.css","sourcesContent":["@import '../node_modules/carbon-components/css/carbon-components.css';\n\np {\n  font-size: 0.875rem;\n}"]}
