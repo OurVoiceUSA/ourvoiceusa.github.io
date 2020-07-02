@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "https://apps.ourvoiceusa.org/ambassador-react/static/css/main.3fcbe30b.chunk.css",
-    "main.js": "https://apps.ourvoiceusa.org/ambassador-react/static/js/main.5ed86a51.chunk.js",
-    "main.js.map": "https://apps.ourvoiceusa.org/ambassador-react/static/js/main.5ed86a51.chunk.js.map",
+    "main.js": "https://apps.ourvoiceusa.org/ambassador-react/static/js/main.7aca3d43.chunk.js",
+    "main.js.map": "https://apps.ourvoiceusa.org/ambassador-react/static/js/main.7aca3d43.chunk.js.map",
     "runtime-main.js": "https://apps.ourvoiceusa.org/ambassador-react/static/js/runtime-main.55556f4d.js",
     "runtime-main.js.map": "https://apps.ourvoiceusa.org/ambassador-react/static/js/runtime-main.55556f4d.js.map",
     "static/css/2.374d435e.chunk.css": "https://apps.ourvoiceusa.org/ambassador-react/static/css/2.374d435e.chunk.css",
-    "static/js/2.019361b8.chunk.js": "https://apps.ourvoiceusa.org/ambassador-react/static/js/2.019361b8.chunk.js",
-    "static/js/2.019361b8.chunk.js.map": "https://apps.ourvoiceusa.org/ambassador-react/static/js/2.019361b8.chunk.js.map",
+    "static/js/2.d0290975.chunk.js": "https://apps.ourvoiceusa.org/ambassador-react/static/js/2.d0290975.chunk.js",
+    "static/js/2.d0290975.chunk.js.map": "https://apps.ourvoiceusa.org/ambassador-react/static/js/2.d0290975.chunk.js.map",
     "index.html": "https://apps.ourvoiceusa.org/ambassador-react/index.html",
-    "precache-manifest.94cab494bf5d2f55ae1ffcaaf896e3b4.js": "https://apps.ourvoiceusa.org/ambassador-react/precache-manifest.94cab494bf5d2f55ae1ffcaaf896e3b4.js",
+    "precache-manifest.d532362b8aa143e3acf6670e14325993.js": "https://apps.ourvoiceusa.org/ambassador-react/precache-manifest.d532362b8aa143e3acf6670e14325993.js",
     "service-worker.js": "https://apps.ourvoiceusa.org/ambassador-react/service-worker.js",
     "static/css/2.374d435e.chunk.css.map": "https://apps.ourvoiceusa.org/ambassador-react/static/css/2.374d435e.chunk.css.map",
     "static/css/main.3fcbe30b.chunk.css.map": "https://apps.ourvoiceusa.org/ambassador-react/static/css/main.3fcbe30b.chunk.css.map",
-    "static/js/2.019361b8.chunk.js.LICENSE.txt": "https://apps.ourvoiceusa.org/ambassador-react/static/js/2.019361b8.chunk.js.LICENSE.txt"
+    "static/js/2.d0290975.chunk.js.LICENSE.txt": "https://apps.ourvoiceusa.org/ambassador-react/static/js/2.d0290975.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.55556f4d.js",
     "static/css/2.374d435e.chunk.css",
-    "static/js/2.019361b8.chunk.js",
+    "static/js/2.d0290975.chunk.js",
     "static/css/main.3fcbe30b.chunk.css",
-    "static/js/main.5ed86a51.chunk.js"
+    "static/js/main.7aca3d43.chunk.js"
   ]
 }

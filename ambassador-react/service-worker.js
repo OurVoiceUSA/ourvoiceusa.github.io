@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://apps.ourvoiceusa.org/ambassador-react/precache-manifest.94cab494bf5d2f55ae1ffcaaf896e3b4.js"
+  "https://apps.ourvoiceusa.org/ambassador-react/precache-manifest.d532362b8aa143e3acf6670e14325993.js"
 );
 
 self.addEventListener('message', (event) => {
